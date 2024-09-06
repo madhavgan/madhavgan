@@ -6,7 +6,7 @@ You can use this template to showcase your skills, projects, and achievements to
 
 1. Clone this repository:
     
-       https://github.com/ashiksanyo10/Portfolio_Temp.github.io.git
+       https://github.com/madhavgan/Portfolio_Temp.github.io.git
 
 2. Edit the templete and Fill in the required fields 
 
