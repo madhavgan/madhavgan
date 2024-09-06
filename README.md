@@ -26,6 +26,7 @@ Enhance coding skills and gain exposure to diverse projects
 
 🤝 Let's Connect!
 I'm always open to collaborations, discussions, and new challenges. Feel free to reach out:
+Portfolio:file:///C:/Users/97433/Downloads/Portfolio_Temp.github.io-main/Portfolio_Temp.github.io-main_Madhav/index_new.html
 Email:madhavganesh48@gmail.com
 LinkedIn: www.linkedin.com/in/madhav-ganesh
 
