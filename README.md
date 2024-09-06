@@ -6,7 +6,7 @@ You can use this template to showcase your skills, projects, and achievements to
 
 1. Clone this repository:
     
-       https://github.com/madhavgan/Portfolio_Temp.github.io.git
+       https://Portfolio_Temp.github.io-main/Portfolio_Temp.github.io-main_Madhav/Madhav%20Ganesh_PortFolio
 
 2. Edit the templete and Fill in the required fields 
 
